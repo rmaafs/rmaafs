@@ -1,3 +1,9 @@
+# Hi I'm Rodrigo! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-rmaafs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmaafs/)](https://www.linkedin.com/in/rmaafs/)
+[![Website Badge](https://img.shields.io/badge/-rmaafs.com-0a192f?style=flat&logo=Google-Chrome&logoColor=white&link=https://rmaafs.com)](https://rmaafs.com)
+[![Twitter Badge](https://img.shields.io/badge/-@royendero-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/royendero)](https://twitter.com/royendero)
+[![Instagram Badge](https://img.shields.io/badge/-@relmaps-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/relmaps/)](https://instagram.com/relmaps)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
