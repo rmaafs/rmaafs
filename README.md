@@ -3,6 +3,8 @@
 [![Website Badge](https://img.shields.io/badge/-rmaafs.com-0a192f?style=flat&logo=Google-Chrome&logoColor=white&link=https://rmaafs.com)](https://rmaafs.com)
 [![Twitter Badge](https://img.shields.io/badge/-@royendero-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/royendero)](https://twitter.com/royendero)
 [![Instagram Badge](https://img.shields.io/badge/-@relmaps-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/relmaps/)](https://instagram.com/relmaps)
+[![Platzi Badge](https://img.shields.io/badge/-rmaafs-203845?style=flat&logo=Platzi&logoColor=98CA3F&link=https://platzi.com/p/rmaafs/)](https://platzi.com/p/rmaafs/)
+[![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ElMaps/)](https://www.facebook.com/ElMaps/)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
