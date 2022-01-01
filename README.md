@@ -7,13 +7,11 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ElMaps/)](https://www.facebook.com/ElMaps/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,285 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 493.8 kB Used in GitHub's Storage 
  > 
@@ -77,7 +75,7 @@ PHP                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
