@@ -7,15 +7,13 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ElMaps/)](https://www.facebook.com/ElMaps/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 481 Contributions in the Year 2022
+> 🏆 485 Contributions in the Year 2022
  > 
-> 📦 494.7 kB Used in GitHub's Storage 
+> 📦 494.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,9 +35,9 @@
 ```text
 Monday       179 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
 Tuesday      217 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
-Wednesday    188 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Wednesday    186 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
 Thursday     139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-Friday       120 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Friday       122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
 Saturday     119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
 Sunday       238 commits    █████░░░░░░░░░░░░░░░░░░░░   19.83%
 
@@ -76,7 +74,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2022 09:14:57 UTC
+ Last Updated on 19/02/2022 09:08:46 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
