@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@royendero-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/royendero)](https://twitter.com/royendero)
 [![Instagram Badge](https://img.shields.io/badge/-@rmaafs-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rmaafs/)](https://instagram.com/rmaafs)
 [![Platzi Badge](https://img.shields.io/badge/-rmaafs-203845?style=flat&logo=Platzi&logoColor=98CA3F&link=https://platzi.com/p/rmaafs/)](https://platzi.com/p/rmaafs/)
-[![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/ElMaps/)](https://www.facebook.com/ElMaps/)
+[![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2017%20mins-blue)
