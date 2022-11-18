@@ -7,13 +7,13 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C350%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,550 Contributions in the Year 2022
+> 🏆 2,568 Contributions in the Year 2022
  > 
 > 📦 525.5 kB Used in GitHub's Storage 
  > 
@@ -26,20 +26,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-🌆 Daytime    827 commits    ████████████░░░░░░░░░░░░░   49.85% 
-🌃 Evening    617 commits    █████████░░░░░░░░░░░░░░░░   37.19% 
+🌞 Morning    70 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+🌆 Daytime    825 commits    ████████████░░░░░░░░░░░░░   49.73% 
+🌃 Evening    620 commits    █████████░░░░░░░░░░░░░░░░   37.37% 
 🌙 Night      144 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.68%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       291 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-Tuesday      347 commits    █████░░░░░░░░░░░░░░░░░░░░   20.92% 
-Wednesday    302 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
-Thursday     265 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-Friday       155 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
+Monday       290 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
+Tuesday      346 commits    █████░░░░░░░░░░░░░░░░░░░░   20.86% 
+Wednesday    293 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66% 
+Thursday     277 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
+Friday       154 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
 Saturday     101 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
 Sunday       198 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.93%
 
@@ -75,7 +75,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2022 19:23:00 UTC
+ Last Updated on 18/11/2022 09:09:43 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
