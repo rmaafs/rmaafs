@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,7 +15,7 @@
 
 > 🏆 36 Contributions in the Year 2023
  > 
-> 📦 525.3 kB Used in GitHub's Storage 
+> 📦 525.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,15 +50,15 @@ Sunday       138 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 30 mins       █████████████░░░░░░░░░░░░   54.94% 
-YAML                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.2% 
-Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+Python                   3 hrs 30 mins       █████████████████░░░░░░░░   69.35% 
+YAML                     1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49% 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████████░░░░   83.54% 
-Word                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46%
+VS Code                  5 hrs 1 min         ████████████████████████░   99.03% 
+Word                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 ```
 
@@ -75,7 +75,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2023 09:07:39 UTC
+ Last Updated on 08/01/2023 09:07:48 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
