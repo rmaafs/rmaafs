@@ -7,9 +7,9 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C480%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C480%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -50,14 +50,14 @@ Sunday       146 commits    ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.93% 
-JavaScript               6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.72% 
-JSON                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-C                        1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
+Python                   8 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.43% 
+JavaScript               6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   32.26% 
+JSON                     2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
+C                        1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 🔥 Editors: 
-VS Code                  19 hrs 42 mins      █████████████████████████   99.72% 
+VS Code                  19 hrs 56 mins      █████████████████████████   99.72% 
 Word                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 ```
@@ -75,7 +75,7 @@ TypeScript               5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2023 09:08:12 UTC
+ Last Updated on 06/02/2023 09:09:31 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
