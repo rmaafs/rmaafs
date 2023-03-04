@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C503%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C504%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,14 +48,14 @@ Sunday                   216 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 10 mins        ████████████████░░░░░░░░░   63.59 % 
-SSH Config               21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+C#                       1 hr 9 mins         █████████████████░░░░░░░░   68.66 % 
+Python                   23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +71,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2023 09:08:15 UTC
+ Last Updated on 04/03/2023 09:07:19 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
