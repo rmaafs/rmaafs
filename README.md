@@ -7,13 +7,13 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C971%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C974%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 633.4 kB Used in GitHub's Storage 
+> 📦 633.5 kB Used in GitHub's Storage 
  > 
 > 🏆 232 Contributions in the Year 2024
  > 
@@ -48,14 +48,14 @@ Sunday                   2868 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.25 % 
-JavaScript               1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   35.59 % 
-Python                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Java                     5 hrs               ██████████████████░░░░░░░   70.45 % 
+JavaScript               1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +71,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2024 11:22:00 UTC
+ Last Updated on 18/07/2024 11:24:33 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
