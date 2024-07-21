@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C977%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C977%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -48,8 +48,8 @@ Sunday                   2868 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     5 hrs               █████████████████████░░░░   82.89 % 
-JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Java                     5 hrs               █████████████████████░░░░   82.90 % 
+JavaScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 C#                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
@@ -71,7 +71,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2024 11:22:43 UTC
+ Last Updated on 21/07/2024 11:25:21 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
