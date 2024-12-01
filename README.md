@@ -7,8 +7,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C108%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -71,7 +69,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2024 11:20:52 UTC
+ Last Updated on 01/12/2024 11:21:45 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
