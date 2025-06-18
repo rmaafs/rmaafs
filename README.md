@@ -15,7 +15,7 @@
 
 > 📦 902.2 kB Used in GitHub's Storage 
  > 
-> 🏆 754 Contributions in the Year 2025
+> 🏆 789 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,10 +48,15 @@ Sunday                   2897 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 36 mins        ███████████████████░░░░░░   75.21 % 
+Text                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 7 mins        █████████████████████████   99.14 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,7 +72,7 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 11:29:13 UTC
+ Last Updated on 18/06/2025 11:26:29 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
