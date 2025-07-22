@@ -48,12 +48,10 @@ Sunday                   2897 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               24 mins             ███████████████████████░░   91.58 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +67,7 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2025 11:30:48 UTC
+ Last Updated on 22/07/2025 11:27:11 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
