@@ -57,17 +57,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               60 repos            ███████████░░░░░░░░░░░░░░   43.17 % 
-Java                     32 repos            ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Python                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JavaScript               60 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+Java                     32 repos            ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Python                   14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+C#                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 
 
 
- Last Updated on 10/09/2025 11:26:08 UTC
+ Last Updated on 12/09/2025 11:29:53 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
