@@ -7,15 +7,13 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C717%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 927.3 kB Used in GitHub's Storage 
  > 
-> 🏆 975 Contributions in the Year 2025
+> 🏆 977 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,14 +46,14 @@ Sunday                   2897 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 56 mins       █████████████░░░░░░░░░░░░   53.20 % 
-Python                   3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Bash                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Docker                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JavaScript               5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.94 % 
+Python                   3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Bash                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Docker                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +69,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 11:26:26 UTC
+ Last Updated on 16/11/2025 11:29:45 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
