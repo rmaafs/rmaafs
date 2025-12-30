@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C815%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C815%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,7 +15,7 @@
 
 > 📦 928.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,108 Contributions in the Year 2025
+> 🏆 1,109 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,14 +48,14 @@ Sunday                   2889 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 19 mins       █████████████████░░░░░░░░   66.08 % 
-Valve Data Format        1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-SCSS                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JavaScript               3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.18 % 
+Valve Data Format        1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +71,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 11:29:12 UTC
+ Last Updated on 30/12/2025 11:30:04 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
