@@ -26,4 +26,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
-          
+          IGNORED_REPOS: "cli"
