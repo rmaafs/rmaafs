@@ -7,9 +7,9 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C878%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C881%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -50,14 +50,14 @@ Sunday                   2889 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     6 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
-JavaScript               5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Python                   2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Java                     6 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.03 % 
+JavaScript               5 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+Python                   2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 7 mins       █████████████████████████   99.89 % 
+VS Code                  20 hrs 54 mins      █████████████████████████   99.89 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
@@ -74,7 +74,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2026 11:34:54 UTC
+ Last Updated on 17/01/2026 11:25:51 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
