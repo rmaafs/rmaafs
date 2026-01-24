@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C895%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C902%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -17,7 +17,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2026
+> 🏆 104 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,14 +50,14 @@ Sunday                   2889 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
-TypeScript               3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Java                     3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-C#                       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+JavaScript               10 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   39.93 % 
+TypeScript               4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Java                     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+XML                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  26 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2026 11:26:28 UTC
+ Last Updated on 24/01/2026 11:23:57 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
