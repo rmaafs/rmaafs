@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C932%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C932%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -17,7 +17,7 @@
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 142 Contributions in the Year 2026
+> 🏆 143 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,41 +25,6 @@
  > 
 > 🔑 90 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5105 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-🌆 Daytime                58842 commits       ████████████████░░░░░░░░░   63.81 % 
-🌃 Evening                24195 commits       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-🌙 Night                  4075 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   19609 commits       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Tuesday                  19891 commits       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Wednesday                14288 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Thursday                 20322 commits       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-Friday                   13644 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Saturday                 1574 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Sunday                   2889 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.45 % 
-JavaScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Bash                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Python                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 28 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -73,7 +38,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 11:30:12 UTC
+ Last Updated on 06/02/2026 11:31:41 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
