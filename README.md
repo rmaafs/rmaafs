@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C030%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C032%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,15 +50,15 @@ Sunday                   2826 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.51 % 
-Markdown                 3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-JSON                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Other                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Bash                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+JavaScript               6 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
+Markdown                 3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 32 mins      █████████████████████████   99.68 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+VS Code                  15 hrs 29 mins      █████████████████████████   99.63 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +74,7 @@ C#                       4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2026 11:18:31 UTC
+ Last Updated on 01/03/2026 11:18:11 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
