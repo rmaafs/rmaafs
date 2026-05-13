@@ -7,17 +7,17 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C177%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C182%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,483 Contributions in the Year 2026
+> 🏆 1,489 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,55 +25,20 @@
  > 
 > 🔑 105 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5135 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-🌆 Daytime                59303 commits       ████████████████░░░░░░░░░   63.37 % 
-🌃 Evening                24916 commits       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-🌙 Night                  4226 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   19748 commits       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Tuesday                  19989 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Wednesday                14610 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Thursday                 20686 commits       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Friday                   14021 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Saturday                 1715 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Sunday                   2811 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-JavaScript               2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Markdown                 1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-C#                       1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               63 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-Python                   32 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-TypeScript               19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JavaScript               63 repos            █████████░░░░░░░░░░░░░░░░   34.81 % 
+Python                   33 repos            █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+TypeScript               19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Shell                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 
 
 
- Last Updated on 12/05/2026 12:21:07 UTC
+ Last Updated on 13/05/2026 12:29:33 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
