@@ -7,17 +7,17 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C236%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,499 Contributions in the Year 2026
+> 🏆 1,502 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,6 +25,42 @@
  > 
 > 🔑 105 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5135 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+🌆 Daytime                59305 commits       ████████████████░░░░░░░░░   63.37 % 
+🌃 Evening                24918 commits       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+🌙 Night                  4228 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   19748 commits       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Tuesday                  19993 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Wednesday                14611 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Thursday                 20687 commits       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Friday                   14021 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Saturday                 1715 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Sunday                   2811 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.90 % 
+JavaScript               2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Text                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Turtle                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Bash                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 38 mins      █████████████████████████   99.00 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -38,7 +74,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2026 12:44:41 UTC
+ Last Updated on 21/05/2026 13:02:14 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
