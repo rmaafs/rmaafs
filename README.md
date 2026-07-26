@@ -9,38 +9,38 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.0 MB Used in GitHub's Storage 
+> 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,632 Contributions in the Year 2026
+> 🏆 1,647 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 51 Public Repositories 
  > 
-> 🔑 106 Private Repositories 
+> 🔑 108 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                292 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-🌆 Daytime                3512 commits        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-🌃 Evening                7484 commits        █████████████░░░░░░░░░░░░   50.77 % 
-🌙 Night                  3454 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌞 Morning                292 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+🌆 Daytime                3388 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+🌃 Evening                7072 commits        █████████████░░░░░░░░░░░░   50.33 % 
+🌙 Night                  3298 commits        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  2222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Wednesday                2071 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Thursday                 2096 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Friday                   2138 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Saturday                 1687 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Sunday                   2512 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Monday                   1971 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Tuesday                  2038 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Wednesday                1976 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Thursday                 1889 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Friday                   2039 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Saturday                 1663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sunday                   2474 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 ```
 
 
@@ -48,31 +48,31 @@ Sunday                   2512 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Markdown                 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Bash                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Other                    57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown                 5 hrs 51 mins       ████████████████░░░░░░░░░   63.61 % 
+Other                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 29 mins       █████████████░░░░░░░░░░░░   52.12 % 
-VS Code                  3 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.88 % 
+VS Code                  6 hrs 18 mins       █████████████████░░░░░░░░   68.60 % 
+Claude Code              2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               62 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   37 repos            █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-TypeScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Shell                    7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JavaScript               63 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Python                   39 repos            █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+TypeScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Shell                    7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
 
 
- Last Updated on 19/07/2026 11:50:31 UTC
+ Last Updated on 26/07/2026 12:04:53 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
