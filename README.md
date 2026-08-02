@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,15 +48,35 @@ Sunday                   2474 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 51 mins       ████████████████░░░░░░░░░   63.61 % 
-Other                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Other                    20 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 18 mins       █████████████████░░░░░░░░   68.60 % 
-Claude Code              2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
+Claude Code              11 mins             ██████████████░░░░░░░░░░░   55.02 % 
+VS Code                  9 mins              ███████████░░░░░░░░░░░░░░   44.98 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 20 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 3,388,346 Input Tokens, 14,196 Output Tokens
+
+💵 $291.34 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 17 AI Prompts
+
+Opus                     143 lines           ██████████████░░░░░░░░░░░   57.66 % 
+Fable                    105 lines           ███████████░░░░░░░░░░░░░░   42.34 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 75 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +92,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 12:04:53 UTC
+ Last Updated on 02/08/2026 12:05:19 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
