@@ -9,38 +9,38 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.45%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,694 Contributions in the Year 2026
+> 🏆 1,836 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 51 Public Repositories 
  > 
-> 🔑 109 Private Repositories 
+> 🔑 110 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                307 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-🌆 Daytime                3616 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-🌃 Evening                7798 commits        █████████████░░░░░░░░░░░░   50.88 % 
-🌙 Night                  3604 commits        ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+🌞 Morning                368 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+🌆 Daytime                3523 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+🌃 Evening                7353 commits        ████████████░░░░░░░░░░░░░   49.51 % 
+🌙 Night                  3609 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   2071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Tuesday                  2352 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Wednesday                2140 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Thursday                 2237 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   2224 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Saturday                 1741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Sunday                   2560 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Monday                   2057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Tuesday                  2250 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                2009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Thursday                 1984 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Friday                   2147 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Saturday                 1843 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Sunday                   2563 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
 ```
 
 
@@ -48,52 +48,56 @@ Sunday                   2560 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 mins             █████████████████░░░░░░░░   68.94 % 
-TypeScript               4 mins              ████████░░░░░░░░░░░░░░░░░   31.06 % 
+Other                    8 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.38 % 
+TypeScript               6 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.90 % 
+JavaScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+SCSS                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-Claude Code              15 mins             █████████████████████████   98.19 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Claude Code              18 hrs 2 mins       ████████████████████████░   97.94 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
+⏱ AI Coding Time: 18 hrs 14 mins (98.98%)
 
-✍️ 173 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,710 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 111,963 Input Tokens, 38,144 Output Tokens
+🔤 9,595,396 Input Tokens, 1,965,000 Output Tokens
 
-💵 $294.57 Estimated AI Cost This Week
+💵 $594.81 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 13 AI Sessions, 106 AI Prompts
 
-Fable                    279 lines           █████████████████░░░░░░░░   66.11 % 
-Opus                     143 lines           ████████░░░░░░░░░░░░░░░░░   33.89 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,167 lines         ██████████████░░░░░░░░░░░   57.33 % 
+Fable                    1,613 lines         ███████████░░░░░░░░░░░░░░   42.67 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,154 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 3,177 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               63 repos            ████████░░░░░░░░░░░░░░░░░   33.16 % 
-Python                   39 repos            █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-TypeScript               22 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Shell                    7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JavaScript               63 repos            ████████░░░░░░░░░░░░░░░░░   32.98 % 
+Python                   40 repos            █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+TypeScript               22 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Shell                    7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
 
 
- Last Updated on 23/08/2026 11:24:14 UTC
+ Last Updated on 30/08/2026 11:47:33 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
