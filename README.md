@@ -19,32 +19,32 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 1,993 Contributions in the Year 2026
+> 🏆 2,010 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 52 Public Repositories 
  > 
-> 🔑 114 Private Repositories 
+> 🔑 115 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                70 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-🌆 Daytime                1004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-🌃 Evening                2105 commits        █████████████░░░░░░░░░░░░   50.02 % 
-🌙 Night                  1029 commits        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌞 Morning                72 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+🌆 Daytime                1018 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+🌃 Evening                2104 commits        ████████████░░░░░░░░░░░░░   49.82 % 
+🌙 Night                  1029 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   494 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Tuesday                  719 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Wednesday                624 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Thursday                 634 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Friday                   603 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Sunday                   657 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Monday                   498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Tuesday                  719 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Wednesday                622 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 647 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Friday                   603 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Saturday                 477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Sunday                   657 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 ```
 
 
@@ -52,58 +52,58 @@ Sunday                   657 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.43 % 
-Markdown                 3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-HTML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Markdown                 3 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.27 % 
+JavaScript               3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+HTML                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 59 mins      █████████████████████░░░░   84.88 % 
-Codex Vscode             1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-VS Code                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              9 hrs 41 mins       ████████████████████████░   96.75 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 7 mins (99.93%)
+⏱ AI Coding Time: 10 hrs (99.9%)
 
-✍️ 4,531 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,061 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,514,473 Input Tokens, 1,251,775 Output Tokens
+🔤 6,675,274 Input Tokens, 935,534 Output Tokens
 
-💵 $383.08 Estimated AI Cost This Week
+💵 $293.01 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 286 AI Prompts
+🧠 24 AI Sessions, 176 AI Prompts
 
-Opus                     2,595 lines         █████████████░░░░░░░░░░░░   53.98 % 
-GPT                      1,620 lines         ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Fable                    592 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Opus                     2,595 lines         ████████████████████░░░░░   81.42 % 
+Fable                    592 lines           █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,829 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 1,939 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               59 repos            ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Python                   42 repos            ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Java                     34 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-HTML                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+JavaScript               59 repos            ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Python                   43 repos            ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Java                     34 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+HTML                     8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
 
 
- Last Updated on 10/09/2026 11:10:17 UTC
+ Last Updated on 11/09/2026 11:10:45 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
