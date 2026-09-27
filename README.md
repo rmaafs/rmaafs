@@ -7,19 +7,19 @@
 [![Facebook Badge](https://img.shields.io/badge/-rmaafs-046CE4?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/rmaafs/)](https://www.facebook.com/rmaafs/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C681%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C687%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-398%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 2,444 Contributions in the Year 2026
+> 🏆 2,489 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,21 +30,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-🌆 Daytime                951 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌃 Evening                1940 commits        ████████████░░░░░░░░░░░░░   49.15 % 
-🌙 Night                  950 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+🌞 Morning                122 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌆 Daytime                1113 commits        ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌃 Evening                2216 commits        ████████████░░░░░░░░░░░░░   48.83 % 
+🌙 Night                  1087 commits        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   418 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Tuesday                  620 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Wednesday                557 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Thursday                 602 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   631 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Saturday                 525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Sunday                   594 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Monday                   521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Tuesday                  745 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Wednesday                629 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Thursday                 675 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Friday                   701 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Saturday                 595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Sunday                   672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 ```
 
 
@@ -52,43 +52,43 @@ Sunday                   594 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    39 hrs 3 mins       ███████████████░░░░░░░░░░   59.58 % 
-Markdown                 18 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Text                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Python                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Other                    44 hrs 52 mins      ████████████████░░░░░░░░░   62.53 % 
+Markdown                 20 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Text                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Python                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Bash                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Claude Code              60 hrs 21 mins      ███████████████████████░░   92.07 % 
-Zoom                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Opencode Cli             1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Codex Vscode             1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-ChatGPT                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Claude Code              67 hrs 2 mins       ███████████████████████░░   93.42 % 
+Codex Vscode             2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Zoom                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+ChatGPT                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 hrs 34 mins (89.35%)
+⏱ AI Coding Time: 63 hrs 36 mins (88.64%)
 
-✍️ 22,032 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 17,026 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,644,377 Input Tokens, 5,113,997 Output Tokens
+🔤 30,986,244 Input Tokens, 5,305,886 Output Tokens
 
-💵 $948.61 Estimated AI Cost This Week
+💵 $1005.89 Estimated AI Cost This Week
 
-🧠 225 AI Sessions, 1012 AI Prompts
+🧠 196 AI Sessions, 961 AI Prompts
 
-Fable                    12,493 lines        ██████████████░░░░░░░░░░░   55.89 % 
-Opus                     4,617 lines         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Sonnet                   3,532 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Gemini                   1,476 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-GPT                      234 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Fable                    12,709 lines        █████████████████░░░░░░░░   69.41 % 
+Opus                     4,617 lines         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Sonnet                   543 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Gemini                   412 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+GPT                      28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,019 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 1,888 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +105,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 11:14:39 UTC
+ Last Updated on 27/09/2026 11:10:18 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
