@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C732%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-498%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-500%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.52%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,42 +52,42 @@ Sunday                   672 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    39 hrs 22 mins      ███████████████████░░░░░░   75.19 % 
-Markdown                 6 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-TypeScript               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JavaScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-SCSS                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Other                    37 hrs 55 mins      █████████████████████░░░░   83.26 % 
+Markdown                 5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+TypeScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Claude Code              48 hrs 13 mins      ███████████████████████░░   92.08 % 
-Zoom                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Notion                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-ChatGPT                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Claude Code              41 hrs 27 mins      ███████████████████████░░   91.02 % 
+Zoom                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Codex Vscode             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Notion                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+ChatGPT                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 58 mins (82.05%)
+⏱ AI Coding Time: 36 hrs 44 mins (80.65%)
 
-✍️ 1,407 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 778 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 31,338,419 Input Tokens, 2,895,191 Output Tokens
+🔤 27,982,943 Input Tokens, 2,231,652 Output Tokens
 
-💵 $864.80 Estimated AI Cost This Week
+💵 $474.58 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 804 AI Prompts
+🧠 67 AI Sessions, 593 AI Prompts
 
-Opus                     2,145 lines         ████████████████████░░░░░   80.76 % 
-Fable                    482 lines           █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Sonnet                   29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Opus                     396 lines           █████████████░░░░░░░░░░░░   50.90 % 
+Fable                    353 lines           ███████████░░░░░░░░░░░░░░   45.37 % 
+Sonnet                   29 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,255 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 1,529 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -104,7 +104,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 11:10:20 UTC
+ Last Updated on 11/10/2026 11:14:29 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
