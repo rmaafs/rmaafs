@@ -52,32 +52,32 @@ Sunday                   672 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    37 hrs 55 mins      █████████████████████░░░░   83.26 % 
-Markdown                 5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-TypeScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    37 hrs 41 mins      █████████████████████░░░░   83.17 % 
+Markdown                 5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Python                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 27 mins      ███████████████████████░░   91.02 % 
-Zoom                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Codex Vscode             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Claude Code              41 hrs 14 mins      ███████████████████████░░   91.03 % 
+Zoom                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Codex Vscode             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 Notion                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-ChatGPT                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 44 mins (80.65%)
+⏱ AI Coding Time: 36 hrs 33 mins (80.68%)
 
 ✍️ 778 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 27,982,943 Input Tokens, 2,231,652 Output Tokens
+🔤 27,814,538 Input Tokens, 2,220,528 Output Tokens
 
-💵 $474.58 Estimated AI Cost This Week
+💵 $473.34 Estimated AI Cost This Week
 
-🧠 67 AI Sessions, 593 AI Prompts
+🧠 66 AI Sessions, 587 AI Prompts
 
 Opus                     396 lines           █████████████░░░░░░░░░░░░   50.90 % 
 Fable                    353 lines           ███████████░░░░░░░░░░░░░░   45.37 % 
@@ -86,7 +86,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,529 characters per prompt
+📚 Verbose Prompter — average 1,544 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -104,7 +104,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 11:14:29 UTC
+ Last Updated on 12/10/2026 11:14:38 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
