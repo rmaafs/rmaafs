@@ -27,6 +27,69 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+🌆 Daytime                1327 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌃 Evening                2473 commits        ████████████░░░░░░░░░░░░░   46.20 % 
+🌙 Night                  1355 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Tuesday                  893 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                822 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Thursday                 893 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Sunday                   673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    21 hrs 7 mins       ████████████████░░░░░░░░░   65.14 % 
+Markdown                 4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Python                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+TypeScript               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Swift                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+
+🔥 Editors: 
+Claude Code              31 hrs              ████████████████████████░   95.57 % 
+Zoom                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Codex Vscode             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 16 mins (87.16%)
+
+✍️ 7,490 lines written by AI, 5 lines written by hand (99.93% AI-written)
+
+🔤 11,370,810 Input Tokens, 2,365,816 Output Tokens
+
+💵 $372.21 Estimated AI Cost This Week
+
+🧠 207 AI Sessions, 721 AI Prompts
+
+Fable                    5,111 lines         ████████████████░░░░░░░░░   64.59 % 
+Opus                     2,802 lines         █████████░░░░░░░░░░░░░░░░   35.41 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.93% of written lines came from AI
+📄 Detailed Prompter — average 918 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -40,7 +103,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2026 11:09:25 UTC
+ Last Updated on 09/11/2026 11:09:09 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
