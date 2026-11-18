@@ -19,7 +19,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,205 Contributions in the Year 2026
+> 🏆 3,210 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,16 +31,16 @@
 
 ```text
 🌞 Morning                200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-🌆 Daytime                1352 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-🌃 Evening                2505 commits        ████████████░░░░░░░░░░░░░   46.28 % 
-🌙 Night                  1356 commits        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+🌆 Daytime                1352 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+🌃 Evening                2507 commits        ████████████░░░░░░░░░░░░░   46.30 % 
+🌙 Night                  1356 commits        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Tuesday                  905 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Wednesday                847 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Tuesday                  907 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Wednesday                847 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 Thursday                 921 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
 Friday                   843 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 Saturday                 613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
@@ -52,40 +52,39 @@ Sunday                   674 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    19 hrs 31 mins      ████████████░░░░░░░░░░░░░   48.25 % 
-Markdown                 14 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   36.68 % 
-Bash                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Python                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Kotlin                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Other                    13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.79 % 
+Markdown                 12 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   40.08 % 
+Python                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Bash                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 10 mins      ██████████████████████░░░   89.42 % 
-Zoom                     3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Codex Vscode             30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-ChatGPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              28 hrs 3 mins       ██████████████████████░░░   88.78 % 
+Zoom                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Codex Vscode             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 42 mins (78.39%)
+⏱ AI Coding Time: 25 hrs 30 mins (80.67%)
 
-✍️ 9,908 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,120 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 21,727,721 Input Tokens, 3,126,081 Output Tokens
+🔤 17,498,700 Input Tokens, 2,554,230 Output Tokens
 
-💵 $575.57 Estimated AI Cost This Week
+💵 $391.86 Estimated AI Cost This Week
 
-🧠 116 AI Sessions, 663 AI Prompts
+🧠 96 AI Sessions, 535 AI Prompts
 
-Opus                     7,122 lines         █████████████████░░░░░░░░   66.97 % 
-Fable                    3,513 lines         ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Opus                     6,592 lines         ██████████████████░░░░░░░   71.02 % 
+Fable                    2,690 lines         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,999 characters per prompt
+📚 Verbose Prompter — average 3,385 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -93,7 +92,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   69 repos            ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Python                   68 repos            ███████░░░░░░░░░░░░░░░░░░   29.31 % 
 JavaScript               58 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Java                     34 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
 TypeScript               25 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
@@ -103,7 +102,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 11:09:00 UTC
+ Last Updated on 18/11/2026 11:09:13 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
