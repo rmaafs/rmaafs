@@ -9,9 +9,9 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C804%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-658%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-658%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.69%20million%20lines%20of%20code-blue?style=flat)
 
@@ -52,31 +52,31 @@ Sunday                   674 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 21 mins      █████████████████░░░░░░░░   68.43 % 
-Markdown                 4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Other                    11 hrs 15 mins      █████████████████░░░░░░░░   68.23 % 
+Markdown                 4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 Terraform                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 13 mins      █████████████████████░░░░   85.67 % 
-Zoom                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Codex Vscode             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Claude Code              14 hrs 7 mins       █████████████████████░░░░   85.59 % 
+Zoom                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Codex Vscode             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ChatGPT                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 49 mins (65.18%)
+⏱ AI Coding Time: 10 hrs 42 mins (64.94%)
 
 ✍️ 898 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,533,086 Input Tokens, 559,560 Output Tokens
+🔤 5,383,238 Input Tokens, 541,237 Output Tokens
 
-💵 $139.84 Estimated AI Cost This Week
+💵 $140.86 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 245 AI Prompts
+🧠 51 AI Sessions, 246 AI Prompts
 
 Fable                    633 lines           ████████████████░░░░░░░░░   65.06 % 
 Opus                     340 lines           █████████░░░░░░░░░░░░░░░░   34.94 % 
@@ -85,7 +85,7 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,352 characters per prompt
+📄 Detailed Prompter — average 1,347 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -103,7 +103,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 11:08:43 UTC
+ Last Updated on 24/11/2026 11:11:39 UTC
 <!--END_SECTION:waka-->
 
 > "La magia únicamente ocurre cuándo los tecnológicos usan algo que no existe en el mundo físico, los bits."<br>
